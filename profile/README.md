@@ -1,18 +1,9 @@
-<h1 align="center">autoscan-lab</h1>
+<h1 align="center">autOScan</h1>
 
 <p align="center">
-  <strong>Tools for grading C lab submissions.</strong>
+  <a href="https://autoscan.felitrejos.com"><img src="https://img.shields.io/badge/autoscan.felitrejos.com-000000?style=flat" /></a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/go-1.22+-00ADD8?style=flat&logo=go&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/electron-35+-47848F?style=flat&logo=electron&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" /></a>
-  <a href="https://autoscan-web.vercel.app"><img src="https://img.shields.io/badge/website-autoscan-000000?style=flat" /></a>
-</p>
+autOScan is a grading workspace for programming courses.
 
----
-
-autOScan streamlines grading for C labs, compiling submissions, running test cases, detecting banned calls and flagging similarity. Available as a TUI, macOS app and web agent.
-
----
+It's where graders review and grade submissions together, with AI assisting and agents acting for them under their control.
